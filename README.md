@@ -37,3 +37,14 @@ features/fixes will be rejected.
 ## Credits
 
 Baun was originally created by Gilbert Pellegrom and is currently maintained by [Mark Southard](http://marksouthard.co). Released under the MIT license.
+
+## KRKeegan Fork
+
+This is my fork from the original Baun CMS.  I have added things that I find
+useful.  In addition, I have also forked the admin plugin and made a number of
+changes there as well - [Baun Admin KRKeegan Fork](https://github.com/krkeegan/Baun-Admin).
+These two repositories features overlap a bit.
+
+Some additions that I have made:
+
+* Enable uploading of images from the admin plugin.
