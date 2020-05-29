@@ -48,3 +48,4 @@ These two repositories features overlap a bit.
 Some additions that I have made:
 
 * Enable uploading of images from the admin plugin.
+* Enable HTML formatted blog excerpts as supported by my [Framework Fork](https://github.com/krkeegan/Framework)

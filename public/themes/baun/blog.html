@@ -10,7 +10,7 @@
 			{% if post.excerpt %}
 				<div class="excerpt">
 					<p>
-						{{ post.excerpt }}<br>
+						{{ post.excerpt|raw }}<br>
 						<a href="{{ base_url }}/{{ post.route }}">Continue reading &rarr;</a>
 					</p>
 				</div>
